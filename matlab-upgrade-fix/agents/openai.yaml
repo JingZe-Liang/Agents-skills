@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix ECUCoder S32DS R2023a Build"
+  short_description: "Repair ECUCoder/S32DS build issues after MATLAB R2023a upgrades."
+  default_prompt: "Use $fix-ecucoder-s32ds-r2023a-build to diagnose and repair an ECUCoder/S32DS build that simulates but fails after upgrading MATLAB to R2023a."
