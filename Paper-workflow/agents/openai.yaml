@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Paper Workflow"
+  short_description: "Controlled CV paper collaboration workflow"
+  default_prompt: "Use $codex-paper-workflow to initialize or execute a controlled module-level paper writing task."
